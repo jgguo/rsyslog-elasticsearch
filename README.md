@@ -1,0 +1,2 @@
+# rsyslog-elasticsearch
+含有elasticsearch组件的rsyslog
