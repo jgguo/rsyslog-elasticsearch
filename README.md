@@ -1,2 +1,6 @@
 # rsyslog-elasticsearch
-含有elasticsearch组件的rsyslog
+
+##包含以下插件：
+-**kafka** rsyslog-kafka
+-**elasticsearch** rsyslog-elasticsearch
+-**imptcp** rsyslog-imptcp
